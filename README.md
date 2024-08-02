@@ -32,7 +32,7 @@ We welcome contributions! If you’d like to contribute to Viodeo, please fork t
 
 ## Contact
 
-For any questions, suggestions, or support, please contact us at contact@viodeo.com](mailto:contact@viodeo.com).
+For any questions, suggestions, or support, please contact us at [contact@viodeo.com](mailto:contact@viodeo.com).
 
 ## License
 
